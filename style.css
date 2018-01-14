@@ -1,0 +1,7 @@
+.container {
+    padding: 15px;
+}
+.container button {
+    background: aliceblue;
+    border-radius: 10px;
+}
